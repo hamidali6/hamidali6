@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamid Ali Khan</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Pakistn</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Pakistan. Possess over 3 years of experience in Data Mining, Data Analysis, Data Visualization, Machine Learning and Deep learning. Hands-on expertise in Python, SQL, C++. Outstanding in Maths and Statistics. A complete team player also work as individual with excellent communication and problem-solving skills</h3>
 
 - 🔭 I’m currently working on [Breast Cancer Classification CNN with GA](https://github.com/hamidali6/Breast-Cancer-Classification-CNN-with-GA)
 
